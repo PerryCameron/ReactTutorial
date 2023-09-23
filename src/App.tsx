@@ -1,6 +1,6 @@
 import Button from "./components/Button";
 import ListGroup from "./components/ListGroup";
-import Alert from "./components/alert";
+import Alert from "./components/Alert";
 import { useState } from "react";
 
 function App() {
