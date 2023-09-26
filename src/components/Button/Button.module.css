@@ -3,3 +3,8 @@
   border-radius: 3 px;
   border: 0;
 }
+
+.btn-primary {
+  background-color: aqua;
+  color: white;
+}
